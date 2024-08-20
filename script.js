@@ -9,7 +9,7 @@ const rules = {
         Spock: 'disproves the ramblings of',
     },
     Scissors: {
-        Paper: 'cuts into ugly confetti',
+        Paper: 'cuts up all the',
         Lizard: 'decapitates',
     },
     Lizard: {
