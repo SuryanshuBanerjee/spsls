@@ -14,7 +14,7 @@ const rules = {
     },
     Lizard: {
         Spock: 'poisons and gives severe diarrhea to',
-        Paper: 'munches on your',
+        Paper: 'munches on the',
     },
     Spock: {
         Scissors: 'renders useless the',
