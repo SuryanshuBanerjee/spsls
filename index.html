@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stone Paper Lizard Spock Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="button-container" id="button-container">
+            <button class="button" id="Stone">Stone</button>
+            <button class="button" id="Paper">Paper</button>
+            <button class="button" id="Scissors">Scissors</button>
+            <button class="button" id="Lizard">Lizard</button>
+            <button class="button" id="Spock">Spock</button>
+        </div>
+        <div id="computer-choice" class="hidden">
+            <div id="computer-button" class="hidden"></div>
+            <div id="message"></div>
+            <div id="result" class="hidden"></div>
+            <button id="restart-button" class="hidden">Restart</button>
+        </div>
+        <div class="stats-container">
+            <div class="stats" id="games-played">Games played: 0</div>
+            <div class="stats" id="games-won">Games won: 0</div>
+            <div class="stats" id="games-lost">Games lost: 0</div>
+        </div>
+    </div>
+    <div class="footer">
+        A Suryanshu Banerjee Production
+        <span class="heart-icon">💙</span>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
