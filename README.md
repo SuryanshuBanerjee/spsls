@@ -11,4 +11,4 @@ Basic HTML CSS JS
 idk i couldn't find some straightforward website online that lets you play the damn thing
 
 # "i want to waste my time!"
-play here: 
+play here: https://suryanshubanerjee.github.io/spsls/
